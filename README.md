@@ -12,7 +12,7 @@
 
 <p align="left">
 Tenho 16 anos e estou iniciando minha jornada como desenvolvedor Fullstack.<br><br>
-
+  
 Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 <br>
 • Lógica de Programação<br>
@@ -20,8 +20,6 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 • Estrutura de dados básica<br>
 • Versionamento com Git<br><br>
 
-📚 Estudo diariamente e desenvolvo projetos práticos para consolidar meus conhecimentos.<br>
-🎯 Objetivo: Me destacar na area!
 </p>
 
 ---
