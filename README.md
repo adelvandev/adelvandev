@@ -1,35 +1,95 @@
-<h1 align="left">Olá, Seja Bem Vindo (a) ao meu Github!</h1>
+<h1 align="center">👋 Olá, Seja Bem Vindo ao meu GitHub!</h1>
 
 <p align="center">
-  Meu nome é Adelvan, tenho 16 anos e atualmente estou estudando <br>
-  Java para ser um Desenvolvedor Fullstack.
+  💻 Desenvolvedor Fullstack em formação <br>
+  🚀 Construindo meu futuro com código <br>
+  📍 Brasil | 16 anos
 </p>
 
-<h2 align="left">Sobre mim</h2>
+---
+
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-  16 anos | Futuro Desenvolvedor Fullstack<br><br>
-  Transformando café ☕ em código<br>
-  Estudando Java, lógica e desenvolvimento web<br>
-  Construindo projetos para evoluir na prática<br><br>
-  Linha por linha, construindo meu futuro.
+Tenho 16 anos e estou iniciando minha jornada como desenvolvedor Fullstack.<br><br>
+
+Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
+<br>
+• Lógica de Programação<br>
+• Programação Orientada a Objetos (POO)<br>
+• Estrutura de dados básica<br>
+• Versionamento com Git<br><br>
+
+📚 Estudo diariamente e desenvolvo projetos práticos para consolidar meus conhecimentos.<br>
+🎯 Objetivo: conquistar minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
 </p>
 
-<h2 align="left">Linguagens</h2>
+---
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ"/></td>
-  </tr>
-</table>
+<h2 align="left">🚀 Stack</h2>
+
+<h3>Backend</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
+</p>
+
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
+</p>
+
+<h3>Banco de Dados</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
+</p>
+
+<h3>Ferramentas</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45"/>
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adelvandev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelvandev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="left">🔥 Contribuições</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<h2 align="left">📫 Contato</h2>
+
+<p>
+  📧 Email: seuemail@email.com <br>
+  💼 LinkedIn: (coloque aqui quando criar) <br>
+</p>
+
+---
+
+<p align="center">
+  ✨ Linha por linha, construindo meu futuro.
+</p>
