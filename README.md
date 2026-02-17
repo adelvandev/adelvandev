@@ -21,20 +21,18 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 • Versionamento com Git<br><br>
 
 📚 Estudo diariamente e desenvolvo projetos práticos para consolidar meus conhecimentos.<br>
-🎯 Objetivo: conquistar minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
+🎯 Objetivo: Me destacar na area!
 </p>
 
 ---
 
 <h2 align="left">🚀 Stack</h2>
 
-<h3>Backend</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
 </p>
 
-<h3>Frontend</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
@@ -42,13 +40,13 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
 </p>
 
-<h3>Banco de Dados</h3>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
 </p>
 
-<h3>Ferramentas</h3>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
@@ -71,7 +69,7 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 
 ---
 
-<h2 align="left">🔥 Contribuições</h2>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph-dark.svg">
