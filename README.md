@@ -20,6 +20,7 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 • Estrutura de dados básica<br>
 • Versionamento com Git<br><br>
 
+➾ Objetivo: Me tornar um Programador Profissional e estruturado.
 </p>
 
 ---
