@@ -28,37 +28,24 @@ Atualmente focado em <b>Java</b> e desenvolvimento web, aplicando conceitos de:
 
 <h2 align="left">🚀 Stack</h2>
 
-<h3>Backend</h3>
-
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
-</p>
-
-<h3>Frontend</h3>
-
-<p>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
-</p>
-
-<h3>Banco de Dados</h3>
-
-<p>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
-</p>
-
-<h3>Ferramentas</h3>
-
-<p>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45"/>
 </p>
+
 
 ---
 
