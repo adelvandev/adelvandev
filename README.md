@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="left">Olá, Seja Bem Vindo (a) ao meu Github!</h1>
 
-<!--
-**adelvandev/adelvandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">Meu nome e Adelvan tenho 16 anos e atualmente estou estudando <br>java para ser um Desenvolvedor fullstack.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">16 anos | Futuro Desenvolvedor Fullstack  <br><br>Transformando café ☕ em código  <br>Estudando Java, lógica e desenvolvimento web  <br>Construindo projetos para evoluir na prática  <br><br>Linha por linha, construindo meu futuro.</p>
+
+###
+
+<h2 align="left">Linguagens ---</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adelvandev/adelvandev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
