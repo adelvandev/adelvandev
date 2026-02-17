@@ -8,47 +8,22 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  👋 Olá! Eu sou Adelvan<br><br>
-  💻 Desenvolvedor Fullstack em formação, focado em Java e desenvolvimento web.<br>
-  📚 Estudo diariamente e aplico o que aprendo em projetos práticos, buscando evolução constante.<br><br>
-  🚀 Objetivo: conquistar minha primeira oportunidade como Estagiário/Dev Júnior e crescer na área.<br>
-  ✨ Mentalidade: consistência, prática e código limpo.
+  16 anos | Futuro Desenvolvedor Fullstack<br><br>
+  Transformando café ☕ em código<br>
+  Estudando Java, lógica e desenvolvimento web<br>
+  Construindo projetos para evoluir na prática<br><br>
+  Linha por linha, construindo meu futuro.
 </p>
 
-<h2 align="left">Stack</h2>
+<h2 align="left">Linguagens</h2>
 
-<!-- FRONTEND -->
-<p align="left"><b>Frontend</b></p>
-<div align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
-</div>
-
-<br>
-
-<!-- BACKEND -->
-<p align="left"><b>Backend</b></p>
-<div align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
-</div>
-
-<br>
-
-<!-- DATABASE -->
-<p align="left"><b>Database</b></p>
-<div align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-</div>
-
-<br>
-
-<!-- TOOLS -->
-<p align="left"><b>Tools</b></p>
-<div align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ"/>
+<div align="left" style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"/>
 </div>
 
 <br>
